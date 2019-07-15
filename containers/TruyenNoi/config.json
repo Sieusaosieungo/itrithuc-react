@@ -1,0 +1,370 @@
+[
+  {
+    "id": 1,
+    "book": "Phong lưu tam quốc",
+    "author": "Dục Hoả Trọng Sinh",
+    "src": "/static/images/story-image/phong-luu-tam-quoc.jpeg",
+    "chapters": [
+      {
+        "id": 1,
+        "title": "Chương 1",
+        "paragraphs": [
+          {
+            "content": "Trương Lãng năm nay mười chín tuổi bởi vì trường kỳ phơi nắng cho nên da của hắn ngăm đen, hắn không được coi là anh tuấn tiêu sái phong lưu lỗi lạc nhưng cũng cao gần 1m8 eo gấu lưng hổ, bụng không có chút mỡ thừa nào, cơ bắp rắn chắc đôi mắt tinh minh sống mũi cao thẳng, khuôn mặt hình chữ điền phối hợp với cái miệng có góc cạnh khiến cho người ta cảm thấy có một vẻ gì đó tàn khốc.",
+            "link": "/static/audio/phong-luu-tam-quoc/chuong1/phan1.mp3"
+          },
+          {
+            "content": "Trương Lãng là người thuộc về đội thứ bảy của đội đặc chủng hắc ưng, bộ đội đặc chủng hắc ưng chính là nơi tập trung huấn luyện những binh sĩ tinh nhuệ nhất cả nước, các loại kỹ năng vận dụng vũ khí, chiến đấu tay không, kỹ năng gián điệp để chống lại những tình huống ác liệt nhất ví dụ như chống lại khủng bố giải cứu con tin...",
+            "link": "/static/audio/phong-luu-tam-quoc/chuong1/phan2.mp3"
+          },
+          {
+            "content": "Trương Lãng năm mười tám tuổi mới bắt đầu tham gia quân ngũ thế nhưng mà trong một năm ngắn ngủi với nghị lực kinh người cùng với phẩm cách ương ngạnh hắn lại trời sinh nhạy cảm với chiến tranh cho nên ở trong quân đội đã phá vỡ rất nhiều kỷ lục về sau trở thành mục tiêu phấn đấu của các bộ đội đặc chủng hắc ưng sau này.",
+            "link": "/static/audio/phong-luu-tam-quoc/chuong1/phan3.mp3"
+          }
+        ]
+      },
+      {
+        "id": 2,
+        "title": "Chương 2",
+        "paragraphs": [
+          {
+            "content": "Lần này Trương Lãng nghe không hiểu rồi, đến khi biết rõ ràng hai người mới vui mừng nở ra nụ cười, bây giờ Trương Lãng mới hiểu được tám phần ngôn ngữ của bọn họ liền báo tên của mình, đối phương cũng giới thiệu, hắn tên là Cao Thuận, người nữ nhân kia là vợ của hắn tên là Trương Sở, Trương Lãng lại hỏi đây là nơi này thì được biết là Thanh Bình núi.",
+            "link": "/static/audio/phong-luu-tam-quoc/chuong2/phan1.mp3"
+          },
+          {
+            "content": "Trương Lãng kỳ quái đây là chuyện gì, tóc đen mắt đen hơn nữa còn biết nói hán ngữ, mặc dù khẩu âm rất nặng nhưng đây tuyệt đối là người Trung Quốc, bọn họ mắc quần áo vô cùng kỳ quái hẳn là dân tộc thiểu số mới đúng chứ.",
+            "link": "/static/audio/phong-luu-tam-quoc/chuong2/phan2.mp3"
+          },
+          {
+            "content": "Lần này Trương Lãng đã nghe rõ hiện tại là Hán Linh đế năm thứ sáu tháng bảy, như vậy không phải mình đã xuyên việt trở về thời tam quốc ngày nhớ đêm mong hơn sao, hơn nữa đây là giai đoạn tùy tùng chi loạn, Đổng Trác vào kinh.",
+            "link": "/static/audio/phong-luu-tam-quoc/chuong2/phan3.mp3"
+          },
+          {
+            "content": "Năm Trung Bình thứ sáu tháng tư Linh đế sụp đổ, nhưng mười tùy tùng không phát tang mà giả mạo chỉ của vua tuyên quốc cữu vào cung, giết chết hậu hoạn, sắc lập hoàng tử Hiệp làm đế, Viên Thiệu liền động thân mang năm nghìn ngự lâm quân cùng với Tuần Du, Trịnh Thái và các đại thần ba mươi người tới trước quan tài của Linh Đế lập thái tử Biện làm hoàng đế, đủ loại quan lại tung hô, Viên Thiệu ở hoa viên tìm đám tùy tùng kia mà giết chết, rồi nói với Tiễn",
+            "link": "/static/audio/phong-luu-tam-quoc/chuong2/phan4.mp3"
+          }
+        ]
+      },
+      {
+        "id": 3,
+        "title": "Chương 3",
+        "paragraphs": [
+          {
+            "content": "Thôn trưởng chúng ta bụng đầy kinh luân mưu kế chồng chất, quyết thắng nghìn dặ, chỉ tiếc rằng chí không thành đành ẩn cư nơi này, sao vậy huynh nhận thức thôn trưởng chúng ta?",
+            "link": "/static/audio/phong-luu-tam-quoc/chuong3/phan1.mp3"
+          },
+          {
+            "content": "Đồng thời hắn bắt đầu nghĩ mình trước kia xem sách sử tam quốc, thường ca thán không gặp lúc hôm nay cuối cùng cũng có cơ hội biến ước mơ thành hiện thực tuy hiện tại còn khó khăn nhưng sắp tới thì tốt rồi, hai người cùng mình rời núi mưu đồ đại nghiệp. Nghĩ tới đây Trương Lãng liền bình tĩnh nó với Cao Thuận",
+            "link": "/static/audio/phong-luu-tam-quoc/chuong3/phan2.mp3"
+          },
+          {
+            "content": "Nghe huynh nói Cao mỗ như tỉnh từ trong mộng thân nam nhi ở trong nơi loạn thế cần phải kiến công lập nghiệp cho dân chúng bình an",
+            "link": "/static/audio/phong-luu-tam-quoc/chuong3/phan3.mp3"
+          },
+          {
+            "content": "Chuyện này tuyệt đối không được Cao mỗ là một người thô kệch, ở trong trận chiến có thể có cái dũng của kẻ thất phu mà thôi, còn Trương huynh tướng mạo bất phàm, hẳn là có đại tài, tại hạ quyết định sau này làm tùy tùng của Trương huynh, sau này có thế nào cũng không có một câu oán hận",
+            "link": "/static/audio/phong-luu-tam-quoc/chuong3/phan4.mp3"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "book": "Chờ đợi em",
+    "author": "Như Song",
+    "src": "/static/images/story-image/chodoiem.jpg",
+    "chapters": [
+      {
+        "id": 1,
+        "title": "Chương 1",
+        "paragraphs": [
+          {
+            "content": "Trương Lãng năm nay mười chín tuổi bởi vì trường kỳ phơi nắng cho nên da của hắn ngăm đen, hắn không được coi là anh tuấn tiêu sái phong lưu lỗi lạc nhưng cũng cao gần 1m8 eo gấu lưng hổ, bụng không có chút mỡ thừa nào, cơ bắp rắn chắc đôi mắt tinh minh sống mũi cao thẳng, khuôn mặt hình chữ điền phối hợp với cái miệng có góc cạnh khiến cho người ta cảm thấy có một vẻ gì đó tàn khốc.",
+            "link": "/static/audio/phong-luu-tam-quoc/chuong1/phan1.mp3"
+          },
+          {
+            "content": "Trương Lãng là người thuộc về đội thứ bảy của đội đặc chủng hắc ưng, bộ đội đặc chủng hắc ưng chính là nơi tập trung huấn luyện những binh sĩ tinh nhuệ nhất cả nước, các loại kỹ năng vận dụng vũ khí, chiến đấu tay không, kỹ năng gián điệp để chống lại những tình huống ác liệt nhất ví dụ như chống lại khủng bố giải cứu con tin...",
+            "link": "/static/audio/phong-luu-tam-quoc/chuong1/phan2.mp3"
+          },
+          {
+            "content": "Trương Lãng năm mười tám tuổi mới bắt đầu tham gia quân ngũ thế nhưng mà trong một năm ngắn ngủi với nghị lực kinh người cùng với phẩm cách ương ngạnh hắn lại trời sinh nhạy cảm với chiến tranh cho nên ở trong quân đội đã phá vỡ rất nhiều kỷ lục về sau trở thành mục tiêu phấn đấu của các bộ đội đặc chủng hắc ưng sau này.",
+            "link": "/static/audio/phong-luu-tam-quoc/chuong1/phan3.mp3"
+          }
+        ]
+      },
+      {
+        "id": 2,
+        "title": "Chương 2",
+        "paragraphs": [
+          {
+            "content": "Trương Lãng năm nay mười chín tuổi bởi vì trường kỳ phơi nắng cho nên da của hắn ngăm đen, hắn không được coi là anh tuấn tiêu sái phong lưu lỗi lạc nhưng cũng cao gần 1m8 eo gấu lưng hổ, bụng không có chút mỡ thừa nào, cơ bắp rắn chắc đôi mắt tinh minh sống mũi cao thẳng, khuôn mặt hình chữ điền phối hợp với cái miệng có góc cạnh khiến cho người ta cảm thấy có một vẻ gì đó tàn khốc.",
+            "link": "/static/audio/phong-luu-tam-quoc/chuong1/phan1.mp3"
+          },
+          {
+            "content": "Trương Lãng là người thuộc về đội thứ bảy của đội đặc chủng hắc ưng, bộ đội đặc chủng hắc ưng chính là nơi tập trung huấn luyện những binh sĩ tinh nhuệ nhất cả nước, các loại kỹ năng vận dụng vũ khí, chiến đấu tay không, kỹ năng gián điệp để chống lại những tình huống ác liệt nhất ví dụ như chống lại khủng bố giải cứu con tin...",
+            "link": "/static/audio/phong-luu-tam-quoc/chuong1/phan2.mp3"
+          },
+          {
+            "content": "Trương Lãng năm mười tám tuổi mới bắt đầu tham gia quân ngũ thế nhưng mà trong một năm ngắn ngủi với nghị lực kinh người cùng với phẩm cách ương ngạnh hắn lại trời sinh nhạy cảm với chiến tranh cho nên ở trong quân đội đã phá vỡ rất nhiều kỷ lục về sau trở thành mục tiêu phấn đấu của các bộ đội đặc chủng hắc ưng sau này.",
+            "link": "/static/audio/phong-luu-tam-quoc/chuong1/phan3.mp3"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "book": "Cửu Châu Mục Vân Lục",
+    "author": "Quản Bình Triều",
+    "src": "/static/images/story-image/cuuchaumucvanluc.jpg",
+    "chapters": [
+      {
+        "id": 1,
+        "title": "Chương 1",
+        "paragraphs": [
+          {
+            "content": "Trương Lãng năm nay mười chín tuổi bởi vì trường kỳ phơi nắng cho nên da của hắn ngăm đen, hắn không được coi là anh tuấn tiêu sái phong lưu lỗi lạc nhưng cũng cao gần 1m8 eo gấu lưng hổ, bụng không có chút mỡ thừa nào, cơ bắp rắn chắc đôi mắt tinh minh sống mũi cao thẳng, khuôn mặt hình chữ điền phối hợp với cái miệng có góc cạnh khiến cho người ta cảm thấy có một vẻ gì đó tàn khốc.",
+            "link": "/static/audio/phong-luu-tam-quoc/chuong1/phan1.mp3"
+          },
+          {
+            "content": "Trương Lãng là người thuộc về đội thứ bảy của đội đặc chủng hắc ưng, bộ đội đặc chủng hắc ưng chính là nơi tập trung huấn luyện những binh sĩ tinh nhuệ nhất cả nước, các loại kỹ năng vận dụng vũ khí, chiến đấu tay không, kỹ năng gián điệp để chống lại những tình huống ác liệt nhất ví dụ như chống lại khủng bố giải cứu con tin...",
+            "link": "/static/audio/phong-luu-tam-quoc/chuong1/phan2.mp3"
+          },
+          {
+            "content": "Trương Lãng năm mười tám tuổi mới bắt đầu tham gia quân ngũ thế nhưng mà trong một năm ngắn ngủi với nghị lực kinh người cùng với phẩm cách ương ngạnh hắn lại trời sinh nhạy cảm với chiến tranh cho nên ở trong quân đội đã phá vỡ rất nhiều kỷ lục về sau trở thành mục tiêu phấn đấu của các bộ đội đặc chủng hắc ưng sau này.",
+            "link": "/static/audio/phong-luu-tam-quoc/chuong1/phan3.mp3"
+          }
+        ]
+      },
+      {
+        "id": 2,
+        "title": "Chương 2",
+        "paragraphs": [
+          {
+            "content": "Trương Lãng năm nay mười chín tuổi bởi vì trường kỳ phơi nắng cho nên da của hắn ngăm đen, hắn không được coi là anh tuấn tiêu sái phong lưu lỗi lạc nhưng cũng cao gần 1m8 eo gấu lưng hổ, bụng không có chút mỡ thừa nào, cơ bắp rắn chắc đôi mắt tinh minh sống mũi cao thẳng, khuôn mặt hình chữ điền phối hợp với cái miệng có góc cạnh khiến cho người ta cảm thấy có một vẻ gì đó tàn khốc.",
+            "link": "/static/audio/phong-luu-tam-quoc/chuong1/phan1.mp3"
+          },
+          {
+            "content": "Trương Lãng là người thuộc về đội thứ bảy của đội đặc chủng hắc ưng, bộ đội đặc chủng hắc ưng chính là nơi tập trung huấn luyện những binh sĩ tinh nhuệ nhất cả nước, các loại kỹ năng vận dụng vũ khí, chiến đấu tay không, kỹ năng gián điệp để chống lại những tình huống ác liệt nhất ví dụ như chống lại khủng bố giải cứu con tin...",
+            "link": "/static/audio/phong-luu-tam-quoc/chuong1/phan2.mp3"
+          },
+          {
+            "content": "Trương Lãng năm mười tám tuổi mới bắt đầu tham gia quân ngũ thế nhưng mà trong một năm ngắn ngủi với nghị lực kinh người cùng với phẩm cách ương ngạnh hắn lại trời sinh nhạy cảm với chiến tranh cho nên ở trong quân đội đã phá vỡ rất nhiều kỷ lục về sau trở thành mục tiêu phấn đấu của các bộ đội đặc chủng hắc ưng sau này.",
+            "link": "/static/audio/phong-luu-tam-quoc/chuong1/phan3.mp3"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "book": "Phong lưu tam quốc",
+    "author": "Dục Hoả Trọng Sinh",
+    "src": "/static/images/story-image/phong-luu-tam-quoc.jpeg",
+    "chapters": [
+      {
+        "id": 1,
+        "title": "Chương 1",
+        "paragraphs": [
+          {
+            "content": "Trương Lãng năm nay mười chín tuổi bởi vì trường kỳ phơi nắng cho nên da của hắn ngăm đen, hắn không được coi là anh tuấn tiêu sái phong lưu lỗi lạc nhưng cũng cao gần 1m8 eo gấu lưng hổ, bụng không có chút mỡ thừa nào, cơ bắp rắn chắc đôi mắt tinh minh sống mũi cao thẳng, khuôn mặt hình chữ điền phối hợp với cái miệng có góc cạnh khiến cho người ta cảm thấy có một vẻ gì đó tàn khốc.",
+            "link": "/static/audio/phong-luu-tam-quoc/chuong1/phan1.mp3"
+          },
+          {
+            "content": "Trương Lãng là người thuộc về đội thứ bảy của đội đặc chủng hắc ưng, bộ đội đặc chủng hắc ưng chính là nơi tập trung huấn luyện những binh sĩ tinh nhuệ nhất cả nước, các loại kỹ năng vận dụng vũ khí, chiến đấu tay không, kỹ năng gián điệp để chống lại những tình huống ác liệt nhất ví dụ như chống lại khủng bố giải cứu con tin...",
+            "link": "/static/audio/phong-luu-tam-quoc/chuong1/phan2.mp3"
+          },
+          {
+            "content": "Trương Lãng năm mười tám tuổi mới bắt đầu tham gia quân ngũ thế nhưng mà trong một năm ngắn ngủi với nghị lực kinh người cùng với phẩm cách ương ngạnh hắn lại trời sinh nhạy cảm với chiến tranh cho nên ở trong quân đội đã phá vỡ rất nhiều kỷ lục về sau trở thành mục tiêu phấn đấu của các bộ đội đặc chủng hắc ưng sau này.",
+            "link": "/static/audio/phong-luu-tam-quoc/chuong1/phan3.mp3"
+          }
+        ]
+      },
+      {
+        "id": 2,
+        "title": "Chương 2",
+        "paragraphs": [
+          {
+            "content": "Lần này Trương Lãng nghe không hiểu rồi, đến khi biết rõ ràng hai người mới vui mừng nở ra nụ cười, bây giờ Trương Lãng mới hiểu được tám phần ngôn ngữ của bọn họ liền báo tên của mình, đối phương cũng giới thiệu, hắn tên là Cao Thuận, người nữ nhân kia là vợ của hắn tên là Trương Sở, Trương Lãng lại hỏi đây là nơi này thì được biết là Thanh Bình núi.",
+            "link": "/static/audio/phong-luu-tam-quoc/chuong2/phan1.mp3"
+          },
+          {
+            "content": "Trương Lãng kỳ quái đây là chuyện gì, tóc đen mắt đen hơn nữa còn biết nói hán ngữ, mặc dù khẩu âm rất nặng nhưng đây tuyệt đối là người Trung Quốc, bọn họ mắc quần áo vô cùng kỳ quái hẳn là dân tộc thiểu số mới đúng chứ.",
+            "link": "/static/audio/phong-luu-tam-quoc/chuong2/phan2.mp3"
+          },
+          {
+            "content": "Lần này Trương Lãng đã nghe rõ hiện tại là Hán Linh đế năm thứ sáu tháng bảy, như vậy không phải mình đã xuyên việt trở về thời tam quốc ngày nhớ đêm mong hơn sao, hơn nữa đây là giai đoạn tùy tùng chi loạn, Đổng Trác vào kinh.",
+            "link": "/static/audio/phong-luu-tam-quoc/chuong2/phan3.mp3"
+          },
+          {
+            "content": "Năm Trung Bình thứ sáu tháng tư Linh đế sụp đổ, nhưng mười tùy tùng không phát tang mà giả mạo chỉ của vua tuyên quốc cữu vào cung, giết chết hậu hoạn, sắc lập hoàng tử Hiệp làm đế, Viên Thiệu liền động thân mang năm nghìn ngự lâm quân cùng với Tuần Du, Trịnh Thái và các đại thần ba mươi người tới trước quan tài của Linh Đế lập thái tử Biện làm hoàng đế, đủ loại quan lại tung hô, Viên Thiệu ở hoa viên tìm đám tùy tùng kia mà giết chết, rồi nói với Tiễn",
+            "link": "/static/audio/phong-luu-tam-quoc/chuong2/phan4.mp3"
+          }
+        ]
+      },
+      {
+        "id": 3,
+        "title": "Chương 3",
+        "paragraphs": [
+          {
+            "content": "Thôn trưởng chúng ta bụng đầy kinh luân mưu kế chồng chất, quyết thắng nghìn dặ, chỉ tiếc rằng chí không thành đành ẩn cư nơi này, sao vậy huynh nhận thức thôn trưởng chúng ta?",
+            "link": "/static/audio/phong-luu-tam-quoc/chuong3/phan1.mp3"
+          },
+          {
+            "content": "Đồng thời hắn bắt đầu nghĩ mình trước kia xem sách sử tam quốc, thường ca thán không gặp lúc hôm nay cuối cùng cũng có cơ hội biến ước mơ thành hiện thực tuy hiện tại còn khó khăn nhưng sắp tới thì tốt rồi, hai người cùng mình rời núi mưu đồ đại nghiệp. Nghĩ tới đây Trương Lãng liền bình tĩnh nó với Cao Thuận",
+            "link": "/static/audio/phong-luu-tam-quoc/chuong3/phan2.mp3"
+          },
+          {
+            "content": "Nghe huynh nói Cao mỗ như tỉnh từ trong mộng thân nam nhi ở trong nơi loạn thế cần phải kiến công lập nghiệp cho dân chúng bình an",
+            "link": "/static/audio/phong-luu-tam-quoc/chuong3/phan3.mp3"
+          },
+          {
+            "content": "Chuyện này tuyệt đối không được Cao mỗ là một người thô kệch, ở trong trận chiến có thể có cái dũng của kẻ thất phu mà thôi, còn Trương huynh tướng mạo bất phàm, hẳn là có đại tài, tại hạ quyết định sau này làm tùy tùng của Trương huynh, sau này có thế nào cũng không có một câu oán hận",
+            "link": "/static/audio/phong-luu-tam-quoc/chuong3/phan4.mp3"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "book": "Phong lưu tam quốc",
+    "author": "Dục Hoả Trọng Sinh",
+    "src": "/static/images/story-image/phong-luu-tam-quoc.jpeg",
+    "chapters": [
+      {
+        "id": 1,
+        "title": "Chương 1",
+        "paragraphs": [
+          {
+            "content": "Trương Lãng năm nay mười chín tuổi bởi vì trường kỳ phơi nắng cho nên da của hắn ngăm đen, hắn không được coi là anh tuấn tiêu sái phong lưu lỗi lạc nhưng cũng cao gần 1m8 eo gấu lưng hổ, bụng không có chút mỡ thừa nào, cơ bắp rắn chắc đôi mắt tinh minh sống mũi cao thẳng, khuôn mặt hình chữ điền phối hợp với cái miệng có góc cạnh khiến cho người ta cảm thấy có một vẻ gì đó tàn khốc.",
+            "link": "/static/audio/phong-luu-tam-quoc/chuong1/phan1.mp3"
+          },
+          {
+            "content": "Trương Lãng là người thuộc về đội thứ bảy của đội đặc chủng hắc ưng, bộ đội đặc chủng hắc ưng chính là nơi tập trung huấn luyện những binh sĩ tinh nhuệ nhất cả nước, các loại kỹ năng vận dụng vũ khí, chiến đấu tay không, kỹ năng gián điệp để chống lại những tình huống ác liệt nhất ví dụ như chống lại khủng bố giải cứu con tin...",
+            "link": "/static/audio/phong-luu-tam-quoc/chuong1/phan2.mp3"
+          },
+          {
+            "content": "Trương Lãng năm mười tám tuổi mới bắt đầu tham gia quân ngũ thế nhưng mà trong một năm ngắn ngủi với nghị lực kinh người cùng với phẩm cách ương ngạnh hắn lại trời sinh nhạy cảm với chiến tranh cho nên ở trong quân đội đã phá vỡ rất nhiều kỷ lục về sau trở thành mục tiêu phấn đấu của các bộ đội đặc chủng hắc ưng sau này.",
+            "link": "/static/audio/phong-luu-tam-quoc/chuong1/phan3.mp3"
+          }
+        ]
+      },
+      {
+        "id": 2,
+        "title": "Chương 2",
+        "paragraphs": [
+          {
+            "content": "Lần này Trương Lãng nghe không hiểu rồi, đến khi biết rõ ràng hai người mới vui mừng nở ra nụ cười, bây giờ Trương Lãng mới hiểu được tám phần ngôn ngữ của bọn họ liền báo tên của mình, đối phương cũng giới thiệu, hắn tên là Cao Thuận, người nữ nhân kia là vợ của hắn tên là Trương Sở, Trương Lãng lại hỏi đây là nơi này thì được biết là Thanh Bình núi.",
+            "link": "/static/audio/phong-luu-tam-quoc/chuong2/phan1.mp3"
+          },
+          {
+            "content": "Trương Lãng kỳ quái đây là chuyện gì, tóc đen mắt đen hơn nữa còn biết nói hán ngữ, mặc dù khẩu âm rất nặng nhưng đây tuyệt đối là người Trung Quốc, bọn họ mắc quần áo vô cùng kỳ quái hẳn là dân tộc thiểu số mới đúng chứ.",
+            "link": "/static/audio/phong-luu-tam-quoc/chuong2/phan2.mp3"
+          },
+          {
+            "content": "Lần này Trương Lãng đã nghe rõ hiện tại là Hán Linh đế năm thứ sáu tháng bảy, như vậy không phải mình đã xuyên việt trở về thời tam quốc ngày nhớ đêm mong hơn sao, hơn nữa đây là giai đoạn tùy tùng chi loạn, Đổng Trác vào kinh.",
+            "link": "/static/audio/phong-luu-tam-quoc/chuong2/phan3.mp3"
+          },
+          {
+            "content": "Năm Trung Bình thứ sáu tháng tư Linh đế sụp đổ, nhưng mười tùy tùng không phát tang mà giả mạo chỉ của vua tuyên quốc cữu vào cung, giết chết hậu hoạn, sắc lập hoàng tử Hiệp làm đế, Viên Thiệu liền động thân mang năm nghìn ngự lâm quân cùng với Tuần Du, Trịnh Thái và các đại thần ba mươi người tới trước quan tài của Linh Đế lập thái tử Biện làm hoàng đế, đủ loại quan lại tung hô, Viên Thiệu ở hoa viên tìm đám tùy tùng kia mà giết chết, rồi nói với Tiễn",
+            "link": "/static/audio/phong-luu-tam-quoc/chuong2/phan4.mp3"
+          }
+        ]
+      },
+      {
+        "id": 3,
+        "title": "Chương 3",
+        "paragraphs": [
+          {
+            "content": "Thôn trưởng chúng ta bụng đầy kinh luân mưu kế chồng chất, quyết thắng nghìn dặ, chỉ tiếc rằng chí không thành đành ẩn cư nơi này, sao vậy huynh nhận thức thôn trưởng chúng ta?",
+            "link": "/static/audio/phong-luu-tam-quoc/chuong3/phan1.mp3"
+          },
+          {
+            "content": "Đồng thời hắn bắt đầu nghĩ mình trước kia xem sách sử tam quốc, thường ca thán không gặp lúc hôm nay cuối cùng cũng có cơ hội biến ước mơ thành hiện thực tuy hiện tại còn khó khăn nhưng sắp tới thì tốt rồi, hai người cùng mình rời núi mưu đồ đại nghiệp. Nghĩ tới đây Trương Lãng liền bình tĩnh nó với Cao Thuận",
+            "link": "/static/audio/phong-luu-tam-quoc/chuong3/phan2.mp3"
+          },
+          {
+            "content": "Nghe huynh nói Cao mỗ như tỉnh từ trong mộng thân nam nhi ở trong nơi loạn thế cần phải kiến công lập nghiệp cho dân chúng bình an",
+            "link": "/static/audio/phong-luu-tam-quoc/chuong3/phan3.mp3"
+          },
+          {
+            "content": "Chuyện này tuyệt đối không được Cao mỗ là một người thô kệch, ở trong trận chiến có thể có cái dũng của kẻ thất phu mà thôi, còn Trương huynh tướng mạo bất phàm, hẳn là có đại tài, tại hạ quyết định sau này làm tùy tùng của Trương huynh, sau này có thế nào cũng không có một câu oán hận",
+            "link": "/static/audio/phong-luu-tam-quoc/chuong3/phan4.mp3"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "book": "Phong lưu tam quốc",
+    "author": "Dục Hoả Trọng Sinh",
+    "src": "/static/images/story-image/phong-luu-tam-quoc.jpeg",
+    "chapters": [
+      {
+        "id": 1,
+        "title": "Chương 1",
+        "paragraphs": [
+          {
+            "content": "Trương Lãng năm nay mười chín tuổi bởi vì trường kỳ phơi nắng cho nên da của hắn ngăm đen, hắn không được coi là anh tuấn tiêu sái phong lưu lỗi lạc nhưng cũng cao gần 1m8 eo gấu lưng hổ, bụng không có chút mỡ thừa nào, cơ bắp rắn chắc đôi mắt tinh minh sống mũi cao thẳng, khuôn mặt hình chữ điền phối hợp với cái miệng có góc cạnh khiến cho người ta cảm thấy có một vẻ gì đó tàn khốc.",
+            "link": "/static/audio/phong-luu-tam-quoc/chuong1/phan1.mp3"
+          },
+          {
+            "content": "Trương Lãng là người thuộc về đội thứ bảy của đội đặc chủng hắc ưng, bộ đội đặc chủng hắc ưng chính là nơi tập trung huấn luyện những binh sĩ tinh nhuệ nhất cả nước, các loại kỹ năng vận dụng vũ khí, chiến đấu tay không, kỹ năng gián điệp để chống lại những tình huống ác liệt nhất ví dụ như chống lại khủng bố giải cứu con tin...",
+            "link": "/static/audio/phong-luu-tam-quoc/chuong1/phan2.mp3"
+          },
+          {
+            "content": "Trương Lãng năm mười tám tuổi mới bắt đầu tham gia quân ngũ thế nhưng mà trong một năm ngắn ngủi với nghị lực kinh người cùng với phẩm cách ương ngạnh hắn lại trời sinh nhạy cảm với chiến tranh cho nên ở trong quân đội đã phá vỡ rất nhiều kỷ lục về sau trở thành mục tiêu phấn đấu của các bộ đội đặc chủng hắc ưng sau này.",
+            "link": "/static/audio/phong-luu-tam-quoc/chuong1/phan3.mp3"
+          }
+        ]
+      },
+      {
+        "id": 2,
+        "title": "Chương 2",
+        "paragraphs": [
+          {
+            "content": "Lần này Trương Lãng nghe không hiểu rồi, đến khi biết rõ ràng hai người mới vui mừng nở ra nụ cười, bây giờ Trương Lãng mới hiểu được tám phần ngôn ngữ của bọn họ liền báo tên của mình, đối phương cũng giới thiệu, hắn tên là Cao Thuận, người nữ nhân kia là vợ của hắn tên là Trương Sở, Trương Lãng lại hỏi đây là nơi này thì được biết là Thanh Bình núi.",
+            "link": "/static/audio/phong-luu-tam-quoc/chuong2/phan1.mp3"
+          },
+          {
+            "content": "Trương Lãng kỳ quái đây là chuyện gì, tóc đen mắt đen hơn nữa còn biết nói hán ngữ, mặc dù khẩu âm rất nặng nhưng đây tuyệt đối là người Trung Quốc, bọn họ mắc quần áo vô cùng kỳ quái hẳn là dân tộc thiểu số mới đúng chứ.",
+            "link": "/static/audio/phong-luu-tam-quoc/chuong2/phan2.mp3"
+          },
+          {
+            "content": "Lần này Trương Lãng đã nghe rõ hiện tại là Hán Linh đế năm thứ sáu tháng bảy, như vậy không phải mình đã xuyên việt trở về thời tam quốc ngày nhớ đêm mong hơn sao, hơn nữa đây là giai đoạn tùy tùng chi loạn, Đổng Trác vào kinh.",
+            "link": "/static/audio/phong-luu-tam-quoc/chuong2/phan3.mp3"
+          },
+          {
+            "content": "Năm Trung Bình thứ sáu tháng tư Linh đế sụp đổ, nhưng mười tùy tùng không phát tang mà giả mạo chỉ của vua tuyên quốc cữu vào cung, giết chết hậu hoạn, sắc lập hoàng tử Hiệp làm đế, Viên Thiệu liền động thân mang năm nghìn ngự lâm quân cùng với Tuần Du, Trịnh Thái và các đại thần ba mươi người tới trước quan tài của Linh Đế lập thái tử Biện làm hoàng đế, đủ loại quan lại tung hô, Viên Thiệu ở hoa viên tìm đám tùy tùng kia mà giết chết, rồi nói với Tiễn",
+            "link": "/static/audio/phong-luu-tam-quoc/chuong2/phan4.mp3"
+          }
+        ]
+      },
+      {
+        "id": 3,
+        "title": "Chương 3",
+        "paragraphs": [
+          {
+            "content": "Thôn trưởng chúng ta bụng đầy kinh luân mưu kế chồng chất, quyết thắng nghìn dặ, chỉ tiếc rằng chí không thành đành ẩn cư nơi này, sao vậy huynh nhận thức thôn trưởng chúng ta?",
+            "link": "/static/audio/phong-luu-tam-quoc/chuong3/phan1.mp3"
+          },
+          {
+            "content": "Đồng thời hắn bắt đầu nghĩ mình trước kia xem sách sử tam quốc, thường ca thán không gặp lúc hôm nay cuối cùng cũng có cơ hội biến ước mơ thành hiện thực tuy hiện tại còn khó khăn nhưng sắp tới thì tốt rồi, hai người cùng mình rời núi mưu đồ đại nghiệp. Nghĩ tới đây Trương Lãng liền bình tĩnh nó với Cao Thuận",
+            "link": "/static/audio/phong-luu-tam-quoc/chuong3/phan2.mp3"
+          },
+          {
+            "content": "Nghe huynh nói Cao mỗ như tỉnh từ trong mộng thân nam nhi ở trong nơi loạn thế cần phải kiến công lập nghiệp cho dân chúng bình an",
+            "link": "/static/audio/phong-luu-tam-quoc/chuong3/phan3.mp3"
+          },
+          {
+            "content": "Chuyện này tuyệt đối không được Cao mỗ là một người thô kệch, ở trong trận chiến có thể có cái dũng của kẻ thất phu mà thôi, còn Trương huynh tướng mạo bất phàm, hẳn là có đại tài, tại hạ quyết định sau này làm tùy tùng của Trương huynh, sau này có thế nào cũng không có một câu oán hận",
+            "link": "/static/audio/phong-luu-tam-quoc/chuong3/phan4.mp3"
+          }
+        ]
+      }
+    ]
+  }
+]
